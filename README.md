@@ -90,7 +90,7 @@ UNINSTALLer is also included.
 
 1. Select one or more files.
 2. Right-click.
-3. Choose **Send to → Add Tag**.
+3. Choose **Send to → AddHashtag**.
 4. Enter one or more hashtags.
 
 ---
