@@ -96,15 +96,15 @@ UNINSTALLer is also included.
 ---
 
 ### Edit existing hashtags
-
-If the selected files already contain hashtags, AddHashtag detects them automatically and displays them in a list.
-
-Click any existing hashtags you want to keep. Unselected hashtags are removed when the filename is updated.
+> [!TIP]
+>If the selected files already contain hashtags, AddHashtag detects them automatically and displays them in a list.
+>
+>Click any existing hashtags you want to keep. Unselected hashtags are removed when changes are applied.
 
 ---
 
 ## Recommended Software
-
+> [!IMPORTANT]
 Although AddHashtag works with Windows Search, it is designed to be used together with **Everything**.
 
 ### Everything
@@ -139,17 +139,18 @@ Using filenames instead of metadata has several advantages.
 
 ## Planned Features
 
-* Automatic installer [DONE]
-* Optional keyboard shortcuts
+* [x] Automatic installer [DONE]
+* [ ] Optional keyboard shortcuts
 
-Suggestions and feature requests are welcome.
+> [!NOTE]
+Suggestions and feature requests are welcome, but i have limited time and skill
 
 ---
 
 ## License
-
-AddHashtag is distributed under a custom license.
-
-Please review the included LICENSE file before using, modifying, or redistributing this software.
-
-Personal use is permitted. Any redistribution, modification, commercial use, or integration into other software requires prior written permission from the author.
+> [!CAUTION]
+>AddHashtag is distributed under a custom license.
+>
+>Please review the included LICENSE file before using, modifying, or redistributing this software.
+>
+>Personal use is permitted. Any redistribution, modification, commercial use, or integration into other software requires prior written permission from the author.
