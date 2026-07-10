@@ -70,64 +70,17 @@ in Everything immediately finds every tagged file.
 
 ## Installation
 
-### 1. Create the installation folder
+Download the latest release package:
 
-Create the following folder:
+AddHashtag-v1.0.1.zip
 
-```text
-C:\Scripts\AddHashtag
-```
+Extract the ZIP file and run:
 
-### 2. Copy the files
+INSTALL.bat
 
-Copy the following files into that folder:
+The installer will automatically configure the required folders and Windows Explorer integration.
 
-* `Taggen.ps1`
-* `hashtag32.ico`
-
-### 3. Install the Explorer shortcut
-
-Press **Win + R**
-
-Type
-
-```text
-shell:sendto
-```
-
-Press **Enter**.
-
-Copy
-
-```text
-add tag.lnk
-```
-
-into the folder that opens.
-
-### 4. (Optional) Assign the icon
-
-If the shortcut does not automatically display the included icon:
-
-Right-click the shortcut
-
-→ **Properties**
-
-→ **Change Icon...**
-
-Browse to
-
-```text
-C:\Scripts\AddHashtag\hashtag32.ico
-```
-
-Alternatively, use
-
-```text
-SHELL32.dll
-```
-
-to choose one of Windows' built-in icons.
+UNINSTALLer is also included.
 
 ---
 
@@ -186,7 +139,7 @@ Using filenames instead of metadata has several advantages.
 
 ## Planned Features
 
-* Automatic installer
+* Automatic installer [DONE]
 * Optional keyboard shortcuts
 
 Suggestions and feature requests are welcome.
