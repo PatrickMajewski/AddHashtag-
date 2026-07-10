@@ -1,4 +1,8 @@
-# AddHashtag
+<p align="left">
+  <img src="images/hashtag.png" width="180">
+</p>
+
+<h1 align="left">AddHashtag</h1>
 
 *A simple Windows utility for organizing files with searchable hashtags.*
 
@@ -183,7 +187,7 @@ Using filenames instead of metadata has several advantages.
 ## Planned Features
 
 * Automatic installer
-(* Optional keyboard shortcuts)
+* Optional keyboard shortcuts
 
 Suggestions and feature requests are welcome.
 
