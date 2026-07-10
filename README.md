@@ -191,8 +191,6 @@ Suggestions and feature requests are welcome.
 
 ## License
 
-License
-
 AddHashtag is distributed under a custom license.
 
 Please review the included LICENSE file before using, modifying, or redistributing this software.
