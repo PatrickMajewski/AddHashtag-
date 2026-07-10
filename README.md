@@ -191,4 +191,10 @@ Suggestions and feature requests are welcome.
 
 ## License
 
-This project is released under the MIT License.
+License
+
+AddHashtag is distributed under a custom license.
+
+Please review the included LICENSE file before using, modifying, or redistributing this software.
+
+Personal use is permitted. Any redistribution, modification, commercial use, or integration into other software requires prior written permission from the author.
